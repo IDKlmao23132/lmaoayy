@@ -1,2 +1,2 @@
-worker: npm i discord.js
+worker: npm install -g typescript
 worker: node index.js
